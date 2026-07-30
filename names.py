@@ -27,7 +27,10 @@ def sort_biblical_order(books: list[str]) -> list[str]:
 
 def save_filenames_as_ts_array(exceptions: list[str] | None = None) -> None:
     if exceptions is None:
-        exceptions = ['.git', '.gitignore', 'names.py', 'names.ts', '.vscode', 'README.md']
+        exceptions = [
+            '.git', '.gitignore', 'kjv.json', 'names.py', 'names.ts',
+            '.vscode', 'README.md'
+        ]
 
     try:
         current_dir = os.getcwd()

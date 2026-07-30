@@ -1,0 +1,3215 @@
+{
+  "schema_version": 1,
+  "book": "Daniel",
+  "offset_unit": "Unicode code points",
+  "span_end": "exclusive",
+  "chapters": {
+    "1": {
+      "1": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "2": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "3": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 81,
+            "end": 88
+          }
+        ],
+        "words_of_christ": []
+      },
+      "4": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 17,
+            "end": 20
+          },
+          {
+            "start": 144,
+            "end": 147
+          }
+        ],
+        "words_of_christ": []
+      },
+      "5": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "6": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "7": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 72,
+            "end": 80
+          }
+        ],
+        "words_of_christ": []
+      },
+      "8": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "9": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "10": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 188,
+            "end": 191
+          },
+          {
+            "start": 225,
+            "end": 227
+          }
+        ],
+        "words_of_christ": []
+      },
+      "11": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "12": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "13": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "14": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "15": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "16": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "17": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "18": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "19": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "20": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 29,
+            "end": 32
+          },
+          {
+            "start": 134,
+            "end": 137
+          },
+          {
+            "start": 155,
+            "end": 159
+          }
+        ],
+        "words_of_christ": []
+      },
+      "21": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 21,
+            "end": 25
+          }
+        ],
+        "words_of_christ": []
+      }
+    },
+    "2": {
+      "1": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "2": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "3": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "4": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "5": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "6": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "7": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "8": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "9": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 49,
+            "end": 61
+          }
+        ],
+        "words_of_christ": []
+      },
+      "10": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 127,
+            "end": 135
+          },
+          {
+            "start": 162,
+            "end": 166
+          }
+        ],
+        "words_of_christ": []
+      },
+      "11": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 4,
+            "end": 9
+          }
+        ],
+        "words_of_christ": []
+      },
+      "12": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 90,
+            "end": 93
+          }
+        ],
+        "words_of_christ": []
+      },
+      "13": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 40,
+            "end": 43
+          }
+        ],
+        "words_of_christ": []
+      },
+      "14": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 126,
+            "end": 129
+          }
+        ],
+        "words_of_christ": []
+      },
+      "15": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 55,
+            "end": 57
+          },
+          {
+            "start": 69,
+            "end": 71
+          }
+        ],
+        "words_of_christ": []
+      },
+      "16": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "17": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "18": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 148,
+            "end": 151
+          }
+        ],
+        "words_of_christ": []
+      },
+      "19": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "20": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "21": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "22": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 57,
+            "end": 59
+          }
+        ],
+        "words_of_christ": []
+      },
+      "23": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 164,
+            "end": 167
+          }
+        ],
+        "words_of_christ": []
+      },
+      "24": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 85,
+            "end": 88
+          },
+          {
+            "start": 154,
+            "end": 157
+          }
+        ],
+        "words_of_christ": []
+      },
+      "25": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "26": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 49,
+            "end": 52
+          }
+        ],
+        "words_of_christ": []
+      },
+      "27": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 111,
+            "end": 114
+          }
+        ],
+        "words_of_christ": []
+      },
+      "28": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "29": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 39,
+            "end": 52
+          }
+        ],
+        "words_of_christ": []
+      },
+      "30": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 53,
+            "end": 56
+          },
+          {
+            "start": 106,
+            "end": 111
+          }
+        ],
+        "words_of_christ": []
+      },
+      "31": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 83,
+            "end": 86
+          },
+          {
+            "start": 138,
+            "end": 141
+          }
+        ],
+        "words_of_christ": []
+      },
+      "32": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 18,
+            "end": 21
+          }
+        ],
+        "words_of_christ": []
+      },
+      "33": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "34": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 93,
+            "end": 102
+          }
+        ],
+        "words_of_christ": []
+      },
+      "35": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "36": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 5,
+            "end": 7
+          }
+        ],
+        "words_of_christ": []
+      },
+      "37": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 14,
+            "end": 17
+          }
+        ],
+        "words_of_christ": []
+      },
+      "38": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 171,
+            "end": 174
+          }
+        ],
+        "words_of_christ": []
+      },
+      "39": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "40": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 102,
+            "end": 108
+          }
+        ],
+        "words_of_christ": []
+      },
+      "41": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "42": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 4,
+            "end": 6
+          },
+          {
+            "start": 28,
+            "end": 32
+          },
+          {
+            "start": 65,
+            "end": 67
+          }
+        ],
+        "words_of_christ": []
+      },
+      "43": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "44": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 156,
+            "end": 159
+          }
+        ],
+        "words_of_christ": []
+      },
+      "45": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 259,
+            "end": 261
+          }
+        ],
+        "words_of_christ": []
+      },
+      "46": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "47": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 52,
+            "end": 57
+          },
+          {
+            "start": 73,
+            "end": 75
+          }
+        ],
+        "words_of_christ": []
+      },
+      "48": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 170,
+            "end": 173
+          }
+        ],
+        "words_of_christ": []
+      },
+      "49": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 135,
+            "end": 138
+          }
+        ],
+        "words_of_christ": []
+      }
+    },
+    "3": {
+      "1": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 60,
+            "end": 63
+          },
+          {
+            "start": 83,
+            "end": 86
+          }
+        ],
+        "words_of_christ": []
+      },
+      "2": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "3": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "4": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "5": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 0,
+            "end": 4
+          }
+        ],
+        "words_of_christ": []
+      },
+      "6": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "7": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 190,
+            "end": 193
+          }
+        ],
+        "words_of_christ": []
+      },
+      "8": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "9": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "10": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "11": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 44,
+            "end": 48
+          }
+        ],
+        "words_of_christ": []
+      },
+      "12": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "13": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 23,
+            "end": 26
+          }
+        ],
+        "words_of_christ": []
+      },
+      "14": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 41,
+            "end": 46
+          }
+        ],
+        "words_of_christ": []
+      },
+      "15": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 195,
+            "end": 199
+          },
+          {
+            "start": 306,
+            "end": 308
+          }
+        ],
+        "words_of_christ": []
+      },
+      "16": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 85,
+            "end": 88
+          }
+        ],
+        "words_of_christ": []
+      },
+      "17": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 9,
+            "end": 11
+          },
+          {
+            "start": 109,
+            "end": 111
+          }
+        ],
+        "words_of_christ": []
+      },
+      "18": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "19": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 118,
+            "end": 127
+          }
+        ],
+        "words_of_christ": []
+      },
+      "20": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 42,
+            "end": 46
+          },
+          {
+            "start": 100,
+            "end": 103
+          },
+          {
+            "start": 112,
+            "end": 116
+          }
+        ],
+        "words_of_christ": []
+      },
+      "21": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 81,
+            "end": 86
+          }
+        ],
+        "words_of_christ": []
+      },
+      "22": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "23": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "24": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 65,
+            "end": 68
+          }
+        ],
+        "words_of_christ": []
+      },
+      "25": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "26": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 73,
+            "end": 76
+          },
+          {
+            "start": 182,
+            "end": 188
+          }
+        ],
+        "words_of_christ": []
+      },
+      "27": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "28": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 0,
+            "end": 4
+          },
+          {
+            "start": 45,
+            "end": 47
+          }
+        ],
+        "words_of_christ": []
+      },
+      "29": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "30": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      }
+    },
+    "4": {
+      "1": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "2": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "3": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 10,
+            "end": 13
+          },
+          {
+            "start": 40,
+            "end": 43
+          },
+          {
+            "start": 69,
+            "end": 71
+          },
+          {
+            "start": 113,
+            "end": 115
+          }
+        ],
+        "words_of_christ": []
+      },
+      "4": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "5": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "6": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 51,
+            "end": 54
+          }
+        ],
+        "words_of_christ": []
+      },
+      "7": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "8": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 53,
+            "end": 56
+          },
+          {
+            "start": 116,
+            "end": 118
+          },
+          {
+            "start": 181,
+            "end": 187
+          }
+        ],
+        "words_of_christ": []
+      },
+      "9": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 89,
+            "end": 91
+          }
+        ],
+        "words_of_christ": []
+      },
+      "10": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 5,
+            "end": 9
+          },
+          {
+            "start": 121,
+            "end": 124
+          }
+        ],
+        "words_of_christ": []
+      },
+      "11": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "12": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 19,
+            "end": 23
+          },
+          {
+            "start": 68,
+            "end": 71
+          }
+        ],
+        "words_of_christ": []
+      },
+      "13": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "14": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "15": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 172,
+            "end": 175
+          },
+          {
+            "start": 188,
+            "end": 190
+          }
+        ],
+        "words_of_christ": []
+      },
+      "16": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "17": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 12,
+            "end": 14
+          }
+        ],
+        "words_of_christ": []
+      },
+      "18": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 132,
+            "end": 135
+          },
+          {
+            "start": 214,
+            "end": 217
+          },
+          {
+            "start": 256,
+            "end": 258
+          }
+        ],
+        "words_of_christ": []
+      },
+      "19": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 24,
+            "end": 27
+          },
+          {
+            "start": 255,
+            "end": 257
+          }
+        ],
+        "words_of_christ": []
+      },
+      "20": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "21": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 13,
+            "end": 17
+          },
+          {
+            "start": 62,
+            "end": 65
+          }
+        ],
+        "words_of_christ": []
+      },
+      "22": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 3,
+            "end": 5
+          }
+        ],
+        "words_of_christ": []
+      },
+      "23": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 294,
+            "end": 297
+          },
+          {
+            "start": 310,
+            "end": 312
+          }
+        ],
+        "words_of_christ": []
+      },
+      "24": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 5,
+            "end": 7
+          },
+          {
+            "start": 45,
+            "end": 47
+          }
+        ],
+        "words_of_christ": []
+      },
+      "25": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "26": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "27": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "28": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "29": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "30": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "31": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 15,
+            "end": 18
+          },
+          {
+            "start": 72,
+            "end": 78
+          }
+        ],
+        "words_of_christ": []
+      },
+      "32": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 53,
+            "end": 61
+          }
+        ],
+        "words_of_christ": []
+      },
+      "33": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 198,
+            "end": 206
+          },
+          {
+            "start": 234,
+            "end": 239
+          }
+        ],
+        "words_of_christ": []
+      },
+      "34": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 215,
+            "end": 217
+          },
+          {
+            "start": 259,
+            "end": 261
+          }
+        ],
+        "words_of_christ": []
+      },
+      "35": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 37,
+            "end": 40
+          },
+          {
+            "start": 123,
+            "end": 128
+          }
+        ],
+        "words_of_christ": []
+      },
+      "36": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "37": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 85,
+            "end": 88
+          }
+        ],
+        "words_of_christ": []
+      }
+    },
+    "5": {
+      "1": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "2": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 154,
+            "end": 157
+          }
+        ],
+        "words_of_christ": []
+      },
+      "3": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 97,
+            "end": 100
+          }
+        ],
+        "words_of_christ": []
+      },
+      "4": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "5": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "6": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "7": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 86,
+            "end": 89
+          },
+          {
+            "start": 127,
+            "end": 130
+          },
+          {
+            "start": 253,
+            "end": 257
+          }
+        ],
+        "words_of_christ": []
+      },
+      "8": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 33,
+            "end": 36
+          }
+        ],
+        "words_of_christ": []
+      },
+      "9": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "10": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 0,
+            "end": 3
+          },
+          {
+            "start": 94,
+            "end": 97
+          }
+        ],
+        "words_of_christ": []
+      },
+      "11": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 39,
+            "end": 41
+          },
+          {
+            "start": 235,
+            "end": 240
+          },
+          {
+            "start": 308,
+            "end": 311
+          }
+        ],
+        "words_of_christ": []
+      },
+      "12": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "13": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 44,
+            "end": 47
+          },
+          {
+            "start": 85,
+            "end": 88
+          },
+          {
+            "start": 113,
+            "end": 116
+          }
+        ],
+        "words_of_christ": []
+      },
+      "14": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 55,
+            "end": 57
+          },
+          {
+            "start": 71,
+            "end": 75
+          }
+        ],
+        "words_of_christ": []
+      },
+      "15": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 17,
+            "end": 20
+          }
+        ],
+        "words_of_christ": []
+      },
+      "16": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 210,
+            "end": 214
+          }
+        ],
+        "words_of_christ": []
+      },
+      "17": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "18": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "19": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "20": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "21": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 97,
+            "end": 100
+          },
+          {
+            "start": 271,
+            "end": 275
+          }
+        ],
+        "words_of_christ": []
+      },
+      "22": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "23": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 353,
+            "end": 355
+          },
+          {
+            "start": 367,
+            "end": 370
+          }
+        ],
+        "words_of_christ": []
+      },
+      "24": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "25": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 9,
+            "end": 11
+          }
+        ],
+        "words_of_christ": []
+      },
+      "26": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 5,
+            "end": 7
+          }
+        ],
+        "words_of_christ": []
+      },
+      "27": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "28": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "29": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 69,
+            "end": 72
+          }
+        ],
+        "words_of_christ": []
+      },
+      "30": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "31": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 40,
+            "end": 45
+          }
+        ],
+        "words_of_christ": []
+      }
+    },
+    "6": {
+      "1": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "2": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 48,
+            "end": 51
+          }
+        ],
+        "words_of_christ": []
+      },
+      "3": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 93,
+            "end": 96
+          }
+        ],
+        "words_of_christ": []
+      },
+      "4": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 156,
+            "end": 159
+          }
+        ],
+        "words_of_christ": []
+      },
+      "5": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 88,
+            "end": 90
+          }
+        ],
+        "words_of_christ": []
+      },
+      "6": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "7": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "8": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "9": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "10": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "11": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "12": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 138,
+            "end": 148
+          },
+          {
+            "start": 284,
+            "end": 286
+          }
+        ],
+        "words_of_christ": []
+      },
+      "13": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 64,
+            "end": 66
+          }
+        ],
+        "words_of_christ": []
+      },
+      "14": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 29,
+            "end": 34
+          },
+          {
+            "start": 84,
+            "end": 87
+          }
+        ],
+        "words_of_christ": []
+      },
+      "15": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 117,
+            "end": 119
+          }
+        ],
+        "words_of_christ": []
+      },
+      "16": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 59,
+            "end": 62
+          },
+          {
+            "start": 86,
+            "end": 89
+          }
+        ],
+        "words_of_christ": []
+      },
+      "17": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "18": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "19": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "20": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 75,
+            "end": 78
+          }
+        ],
+        "words_of_christ": []
+      },
+      "21": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "22": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "23": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "24": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 91,
+            "end": 95
+          }
+        ],
+        "words_of_christ": []
+      },
+      "25": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "26": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 108,
+            "end": 110
+          },
+          {
+            "start": 166,
+            "end": 170
+          },
+          {
+            "start": 218,
+            "end": 231
+          }
+        ],
+        "words_of_christ": []
+      },
+      "27": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "28": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      }
+    },
+    "7": {
+      "1": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 130,
+            "end": 133
+          }
+        ],
+        "words_of_christ": []
+      },
+      "2": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "3": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "4": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 10,
+            "end": 13
+          }
+        ],
+        "words_of_christ": []
+      },
+      "5": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 93,
+            "end": 99
+          }
+        ],
+        "words_of_christ": []
+      },
+      "6": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "7": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 227,
+            "end": 230
+          },
+          {
+            "start": 264,
+            "end": 268
+          }
+        ],
+        "words_of_christ": []
+      },
+      "8": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 182,
+            "end": 186
+          }
+        ],
+        "words_of_christ": []
+      },
+      "9": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 89,
+            "end": 92
+          },
+          {
+            "start": 164,
+            "end": 172
+          },
+          {
+            "start": 190,
+            "end": 193
+          },
+          {
+            "start": 205,
+            "end": 207
+          }
+        ],
+        "words_of_christ": []
+      },
+      "10": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "11": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 85,
+            "end": 89
+          }
+        ],
+        "words_of_christ": []
+      },
+      "12": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "13": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 41,
+            "end": 44
+          }
+        ],
+        "words_of_christ": []
+      },
+      "14": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 132,
+            "end": 134
+          },
+          {
+            "start": 203,
+            "end": 207
+          }
+        ],
+        "words_of_christ": []
+      },
+      "15": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 50,
+            "end": 52
+          }
+        ],
+        "words_of_christ": []
+      },
+      "16": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "17": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 36,
+            "end": 39
+          },
+          {
+            "start": 52,
+            "end": 57
+          }
+        ],
+        "words_of_christ": []
+      },
+      "18": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "19": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 120,
+            "end": 127
+          },
+          {
+            "start": 148,
+            "end": 150
+          },
+          {
+            "start": 158,
+            "end": 163
+          }
+        ],
+        "words_of_christ": []
+      },
+      "20": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 26,
+            "end": 30
+          },
+          {
+            "start": 48,
+            "end": 50
+          },
+          {
+            "start": 109,
+            "end": 111
+          },
+          {
+            "start": 190,
+            "end": 193
+          }
+        ],
+        "words_of_christ": []
+      },
+      "21": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "22": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "23": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "24": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 38,
+            "end": 41
+          },
+          {
+            "start": 52,
+            "end": 56
+          }
+        ],
+        "words_of_christ": []
+      },
+      "25": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 19,
+            "end": 24
+          }
+        ],
+        "words_of_christ": []
+      },
+      "26": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 93,
+            "end": 95
+          }
+        ],
+        "words_of_christ": []
+      },
+      "27": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 162,
+            "end": 164
+          }
+        ],
+        "words_of_christ": []
+      },
+      "28": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 9,
+            "end": 11
+          }
+        ],
+        "words_of_christ": []
+      }
+    },
+    "8": {
+      "1": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 77,
+            "end": 86
+          }
+        ],
+        "words_of_christ": []
+      },
+      "2": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 63,
+            "end": 66
+          },
+          {
+            "start": 78,
+            "end": 80
+          },
+          {
+            "start": 99,
+            "end": 101
+          }
+        ],
+        "words_of_christ": []
+      },
+      "3": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 95,
+            "end": 98
+          },
+          {
+            "start": 114,
+            "end": 117
+          },
+          {
+            "start": 124,
+            "end": 128
+          },
+          {
+            "start": 143,
+            "end": 146
+          }
+        ],
+        "words_of_christ": []
+      },
+      "4": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 112,
+            "end": 125
+          }
+        ],
+        "words_of_christ": []
+      },
+      "5": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 137,
+            "end": 140
+          }
+        ],
+        "words_of_christ": []
+      },
+      "6": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 32,
+            "end": 35
+          }
+        ],
+        "words_of_christ": []
+      },
+      "7": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "8": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "9": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 141,
+            "end": 145
+          }
+        ],
+        "words_of_christ": []
+      },
+      "10": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 20,
+            "end": 24
+          },
+          {
+            "start": 65,
+            "end": 69
+          }
+        ],
+        "words_of_christ": []
+      },
+      "11": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 18,
+            "end": 25
+          },
+          {
+            "start": 79,
+            "end": 88
+          }
+        ],
+        "words_of_christ": []
+      },
+      "12": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 22,
+            "end": 25
+          },
+          {
+            "start": 44,
+            "end": 53
+          }
+        ],
+        "words_of_christ": []
+      },
+      "13": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 74,
+            "end": 79
+          },
+          {
+            "start": 102,
+            "end": 110
+          },
+          {
+            "start": 122,
+            "end": 132
+          },
+          {
+            "start": 143,
+            "end": 152
+          }
+        ],
+        "words_of_christ": []
+      },
+      "14": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "15": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 29,
+            "end": 33
+          }
+        ],
+        "words_of_christ": []
+      },
+      "16": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 34,
+            "end": 46
+          },
+          {
+            "start": 96,
+            "end": 99
+          }
+        ],
+        "words_of_christ": []
+      },
+      "17": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 160,
+            "end": 168
+          }
+        ],
+        "words_of_christ": []
+      },
+      "18": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "19": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 127,
+            "end": 135
+          }
+        ],
+        "words_of_christ": []
+      },
+      "20": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 33,
+            "end": 36
+          },
+          {
+            "start": 43,
+            "end": 46
+          }
+        ],
+        "words_of_christ": []
+      },
+      "21": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 19,
+            "end": 21
+          },
+          {
+            "start": 66,
+            "end": 68
+          },
+          {
+            "start": 86,
+            "end": 88
+          }
+        ],
+        "words_of_christ": []
+      },
+      "22": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "23": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "24": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "25": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 94,
+            "end": 101
+          }
+        ],
+        "words_of_christ": []
+      },
+      "26": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 61,
+            "end": 63
+          },
+          {
+            "start": 112,
+            "end": 120
+          }
+        ],
+        "words_of_christ": []
+      },
+      "27": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 35,
+            "end": 42
+          },
+          {
+            "start": 155,
+            "end": 157
+          }
+        ],
+        "words_of_christ": []
+      }
+    },
+    "9": {
+      "1": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "2": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "3": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "4": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "5": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "6": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "7": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 22,
+            "end": 31
+          },
+          {
+            "start": 170,
+            "end": 178
+          },
+          {
+            "start": 189,
+            "end": 197
+          }
+        ],
+        "words_of_christ": []
+      },
+      "8": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 14,
+            "end": 23
+          }
+        ],
+        "words_of_christ": []
+      },
+      "9": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 20,
+            "end": 26
+          }
+        ],
+        "words_of_christ": []
+      },
+      "10": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "11": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 155,
+            "end": 157
+          }
+        ],
+        "words_of_christ": []
+      },
+      "12": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "13": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 3,
+            "end": 8
+          }
+        ],
+        "words_of_christ": []
+      },
+      "14": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 92,
+            "end": 94
+          }
+        ],
+        "words_of_christ": []
+      },
+      "15": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "16": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 234,
+            "end": 244
+          },
+          {
+            "start": 263,
+            "end": 271
+          }
+        ],
+        "words_of_christ": []
+      },
+      "17": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "18": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "19": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "20": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 13,
+            "end": 16
+          }
+        ],
+        "words_of_christ": []
+      },
+      "21": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 14,
+            "end": 17
+          }
+        ],
+        "words_of_christ": []
+      },
+      "22": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 16,
+            "end": 18
+          }
+        ],
+        "words_of_christ": []
+      },
+      "23": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 88,
+            "end": 92
+          },
+          {
+            "start": 103,
+            "end": 106
+          }
+        ],
+        "words_of_christ": []
+      },
+      "24": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "25": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 31,
+            "end": 35
+          },
+          {
+            "start": 138,
+            "end": 146
+          }
+        ],
+        "words_of_christ": []
+      },
+      "26": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 189,
+            "end": 197
+          }
+        ],
+        "words_of_christ": []
+      },
+      "27": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 199,
+            "end": 201
+          }
+        ],
+        "words_of_christ": []
+      }
+    },
+    "10": {
+      "1": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 126,
+            "end": 129
+          },
+          {
+            "start": 159,
+            "end": 162
+          }
+        ],
+        "words_of_christ": []
+      },
+      "2": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "3": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "4": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 101,
+            "end": 103
+          }
+        ],
+        "words_of_christ": []
+      },
+      "5": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 95,
+            "end": 99
+          }
+        ],
+        "words_of_christ": []
+      },
+      "6": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 14,
+            "end": 17
+          }
+        ],
+        "words_of_christ": []
+      },
+      "7": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "8": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "9": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "10": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 64,
+            "end": 68
+          }
+        ],
+        "words_of_christ": []
+      },
+      "11": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "12": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "13": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "14": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 106,
+            "end": 108
+          },
+          {
+            "start": 113,
+            "end": 117
+          }
+        ],
+        "words_of_christ": []
+      },
+      "15": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "16": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 13,
+            "end": 16
+          }
+        ],
+        "words_of_christ": []
+      },
+      "17": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "18": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 37,
+            "end": 40
+          }
+        ],
+        "words_of_christ": []
+      },
+      "19": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 49,
+            "end": 51
+          }
+        ],
+        "words_of_christ": []
+      },
+      "20": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "21": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 72,
+            "end": 80
+          }
+        ],
+        "words_of_christ": []
+      }
+    },
+    "11": {
+      "1": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 45,
+            "end": 49
+          }
+        ],
+        "words_of_christ": []
+      },
+      "2": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 132,
+            "end": 136
+          }
+        ],
+        "words_of_christ": []
+      },
+      "3": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "4": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "5": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 47,
+            "end": 50
+          },
+          {
+            "start": 133,
+            "end": 141
+          }
+        ],
+        "words_of_christ": []
+      },
+      "6": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 349,
+            "end": 354
+          }
+        ],
+        "words_of_christ": []
+      },
+      "7": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 39,
+            "end": 42
+          }
+        ],
+        "words_of_christ": []
+      },
+      "8": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 73,
+            "end": 76
+          },
+          {
+            "start": 150,
+            "end": 154
+          }
+        ],
+        "words_of_christ": []
+      },
+      "9": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 41,
+            "end": 44
+          }
+        ],
+        "words_of_christ": []
+      },
+      "10": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 86,
+            "end": 89
+          },
+          {
+            "start": 185,
+            "end": 189
+          }
+        ],
+        "words_of_christ": []
+      },
+      "11": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 95,
+            "end": 99
+          }
+        ],
+        "words_of_christ": []
+      },
+      "12": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 0,
+            "end": 3
+          },
+          {
+            "start": 96,
+            "end": 100
+          },
+          {
+            "start": 149,
+            "end": 154
+          }
+        ],
+        "words_of_christ": []
+      },
+      "13": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "14": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "15": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 173,
+            "end": 191
+          }
+        ],
+        "words_of_christ": []
+      },
+      "16": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "17": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 206,
+            "end": 217
+          }
+        ],
+        "words_of_christ": []
+      },
+      "18": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 193,
+            "end": 195
+          }
+        ],
+        "words_of_christ": []
+      },
+      "19": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "20": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 52,
+            "end": 54
+          }
+        ],
+        "words_of_christ": []
+      },
+      "21": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "22": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "23": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 21,
+            "end": 25
+          }
+        ],
+        "words_of_christ": []
+      },
+      "24": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 87,
+            "end": 91
+          },
+          {
+            "start": 212,
+            "end": 215
+          }
+        ],
+        "words_of_christ": []
+      },
+      "25": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "26": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "27": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 29,
+            "end": 37
+          },
+          {
+            "start": 136,
+            "end": 144
+          }
+        ],
+        "words_of_christ": []
+      },
+      "28": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 68,
+            "end": 76
+          },
+          {
+            "start": 120,
+            "end": 128
+          }
+        ],
+        "words_of_christ": []
+      },
+      "29": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "30": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "31": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 114,
+            "end": 123
+          }
+        ],
+        "words_of_christ": []
+      },
+      "32": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 139,
+            "end": 147
+          }
+        ],
+        "words_of_christ": []
+      },
+      "33": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 139,
+            "end": 143
+          }
+        ],
+        "words_of_christ": []
+      },
+      "34": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "35": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 4,
+            "end": 8
+          },
+          {
+            "start": 85,
+            "end": 89
+          },
+          {
+            "start": 97,
+            "end": 101
+          },
+          {
+            "start": 134,
+            "end": 139
+          }
+        ],
+        "words_of_christ": []
+      },
+      "36": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "37": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "38": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "39": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 88,
+            "end": 91
+          }
+        ],
+        "words_of_christ": []
+      },
+      "40": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "41": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 53,
+            "end": 62
+          },
+          {
+            "start": 124,
+            "end": 128
+          }
+        ],
+        "words_of_christ": []
+      },
+      "42": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "43": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 144,
+            "end": 152
+          }
+        ],
+        "words_of_christ": []
+      },
+      "44": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "45": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      }
+    },
+    "12": {
+      "1": {
+        "paragraph_start": true,
+        "added_words": [
+          {
+            "start": 186,
+            "end": 190
+          }
+        ],
+        "words_of_christ": []
+      },
+      "2": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 110,
+            "end": 113
+          }
+        ],
+        "words_of_christ": []
+      },
+      "3": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "4": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 58,
+            "end": 62
+          }
+        ],
+        "words_of_christ": []
+      },
+      "5": {
+        "paragraph_start": true,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "6": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 4,
+            "end": 7
+          },
+          {
+            "start": 48,
+            "end": 51
+          },
+          {
+            "start": 91,
+            "end": 105
+          }
+        ],
+        "words_of_christ": []
+      },
+      "7": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 44,
+            "end": 47
+          },
+          {
+            "start": 183,
+            "end": 194
+          },
+          {
+            "start": 314,
+            "end": 320
+          }
+        ],
+        "words_of_christ": []
+      },
+      "8": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 64,
+            "end": 72
+          },
+          {
+            "start": 90,
+            "end": 96
+          }
+        ],
+        "words_of_christ": []
+      },
+      "9": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 47,
+            "end": 50
+          }
+        ],
+        "words_of_christ": []
+      },
+      "10": {
+        "paragraph_start": false,
+        "added_words": [],
+        "words_of_christ": []
+      },
+      "11": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 18,
+            "end": 22
+          },
+          {
+            "start": 33,
+            "end": 42
+          },
+          {
+            "start": 113,
+            "end": 127
+          }
+        ],
+        "words_of_christ": []
+      },
+      "12": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 8,
+            "end": 10
+          }
+        ],
+        "words_of_christ": []
+      },
+      "13": {
+        "paragraph_start": false,
+        "added_words": [
+          {
+            "start": 33,
+            "end": 35
+          }
+        ],
+        "words_of_christ": []
+      }
+    }
+  }
+}

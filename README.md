@@ -7,8 +7,10 @@ machine-readable source whose exact contents can be audited and fingerprinted.
 ## Repository contents
 
 - `*.json` — one UTF-8 JSON file per Bible book
+- `kjv.json` — translation identity, history, and repository provenance
+- `markers/*.json` — paragraph, added-word, and red-letter rendering DTOs
 - `SHA512SUMS` — SHA-512 digest of every exact JSON file
-- `script.py` — structural, count, and integrity checks
+- `script.py` — structural, integrity, marker, and external comparison checks
 - `names.py` / `names.ts` — TypeScript filename-list generator and output
 
 ## Verify the corpus
@@ -26,6 +28,7 @@ The audit fails if:
 - chapter or verse keys are missing, repeated, non-consecutive, or out of order;
 - a verse is empty or is not a string;
 - a book's chapter or verse total differs from the published KJV counts; or
+- `kjv.json` or a rendering-marker sidecar is malformed or misaligned; or
 - an exact-file SHA-512 digest differs from the tracked `SHA512SUMS` manifest.
 
 The manifest can also be checked without Python:
@@ -55,7 +58,8 @@ git config core.hooksPath .githooks
 
 Before every commit, `.githooks/pre-commit` exports the Git index to an isolated
 temporary directory and checks that exact staged snapshot. It runs strict
-`mypy` checking on both Python files, followed by the complete corpus audit.
+`mypy` checking on the Python utilities and tests, followed by the complete
+corpus audit.
 The commit fails if typing, JSON structure, any per-book count, the
 `SHA512SUMS` manifest, or the README corpus fingerprint is invalid or stale.
 This staged-snapshot approach also catches partially staged corpus updates.
@@ -160,7 +164,7 @@ and
 Exact corpus SHA-512:
 
 ```text
-f49b390066c3113fbb708b96406acc6a02dffe9c56835154d73b6caa45123ede112544ede09e0ed8db43c1d7481feed46a1a2bb212d8261b25b9aaa6d7a3a8b2
+7c2eff0219d59c683b1d12739a64facb22807770e05daf20cf1a4d22ef1b739d5ec03268abb8c3201fd69eb1014cc45a37697cb8abaceccd316c2e473db0b264
 ```
 
 The corpus fingerprint is deterministic and covers each canonical filename and
@@ -174,16 +178,27 @@ filesystem traversal order.
 The per-file values in [`SHA512SUMS`](SHA512SUMS) are plain SHA-512 hashes of
 the raw files. Together, these fingerprints prove that a copy is byte-for-byte
 identical to this tracked snapshot. A hash does **not** by itself prove that
-the underlying wording is correct or establish which historical KJV edition
-supplied it.
+the underlying wording is correct; provenance is established separately below.
 
 ## Text provenance
 
-The repository history identifies this corpus as the KJV, but does not
-currently document the upstream transcription or exact KJV edition. That
-source lineage should be recorded here when it is established. Until then, the
-checks provide strong structural and change integrity, while the claim of
-textual provenance remains limited to the repository's review history.
+This is a maintained KJV corpus developed and corrected through the
+repository's version-control history. It is not stored as a vendor download.
+On 2026-07-30 it was aligned verse-for-verse with a temporary comparison
+against the Bible SuperSearch `kjv` module, which that provider identifies as
+Authorized King James Version, module 6.2.0, year 1611 / 1769. That
+identification is a verification reference, not an independent
+bibliographical certification or a claim that the repository originated as a
+direct copy of that module.
+
+[`kjv.json`](kjv.json) records the translation history, repository provenance,
+verification method, and plain-text/marker layout.
+
+Display markup is deliberately separate from verse text. Each
+`markers/<Book>.json` sidecar contains a `paragraph_start` flag plus
+`added_words` and `words_of_christ` spans for every verse. Span offsets use
+Unicode code points and an exclusive end, measured against the corresponding
+clean verse string.
 
 ## Utility commands
 
@@ -193,7 +208,29 @@ python script.py check     # structure plus scan for embedded verse labels
 python script.py hash      # exact-file hashes plus the corpus fingerprint
 python script.py audit     # all validation and tracked-manifest verification
 python script.py manifest  # intentionally update hashes in SHA512SUMS/README
+python script.py credible-check  # temporary whole-provider comparison
 ```
+
+## Compare against Bible SuperSearch
+
+`script.py credible-check` uses Bible SuperSearch's Bible Download action to
+retrieve the complete KJV in **one request**, validates all 66 books and 31,102
+verses, removes display markup for comparison, and independently verifies the
+66 committed rendering-marker sidecars.
+
+```bash
+python script.py credible-check
+```
+
+The download and JSON Lines report exist only under ignored `credible/`
+temporary storage. If all verse text and marker DTOs match, the command removes
+the download, report, and directory completely. If a difference or validation
+failure occurs, it retains the temporary evidence for investigation. No
+provider Bible payload is committed to this repository.
+
+The regular pre-commit audit is entirely offline. It validates the maintained
+corpus, root `kjv.json`, all marker DTO structures and span bounds, tracked
+hashes, and the README fingerprint without spending an API request.
 
 To regenerate the TypeScript list of the 66 JSON filenames:
 

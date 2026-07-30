@@ -1,6 +1,6 @@
 [tool.mypy]
 python_version = "3.10"
-files = ["script.py", "names.py"]
+files = ["script.py", "names.py", "tests"]
 strict = true
 warn_unused_configs = true
 pretty = true
