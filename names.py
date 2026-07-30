@@ -1,6 +1,7 @@
 import os
 
-def sort_biblical_order(books):
+
+def sort_biblical_order(books: list[str]) -> list[str]:
     bible_order = [
         "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy",
         "Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel",
@@ -18,13 +19,13 @@ def sort_biblical_order(books):
     ]
     bible_map = {book.lower(): i for i, book in enumerate(bible_order)}
 
-    def normalize_for_sort(filename):
+    def normalize_for_sort(filename: str) -> int:
         name = os.path.splitext(filename)[0].replace("_", " ").replace("-", " ").lower()
         return bible_map.get(name, len(bible_order))  # Unknowns go to the end
 
     return sorted(books, key=normalize_for_sort)
 
-def save_filenames_as_ts_array(exceptions=None):
+def save_filenames_as_ts_array(exceptions: list[str] | None = None) -> None:
     if exceptions is None:
         exceptions = ['.git', '.gitignore', 'names.py', 'names.ts', '.vscode', 'README.md']
 

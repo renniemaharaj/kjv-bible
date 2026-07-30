@@ -1,0 +1,25 @@
+#!/bin/sh
+set -eu
+
+repository_root=$(git rev-parse --show-toplevel)
+staged_tree=$(mktemp -d "${TMPDIR:-/tmp}/kjv-pre-commit.XXXXXX")
+
+cleanup() {
+    rm -rf "$staged_tree"
+}
+trap cleanup EXIT HUP INT TERM
+
+cd "$repository_root"
+git checkout-index --all --prefix="$staged_tree/"
+cd "$staged_tree"
+
+if ! python -c "import mypy" >/dev/null 2>&1; then
+    echo "pre-commit: mypy is required; run: python -m pip install -r requirements-dev.txt" >&2
+    exit 1
+fi
+
+echo "pre-commit: checking strict Python types"
+PYTHONDONTWRITEBYTECODE=1 python -m mypy
+
+echo "pre-commit: auditing staged KJV counts and fingerprints"
+PYTHONDONTWRITEBYTECODE=1 python script.py audit
