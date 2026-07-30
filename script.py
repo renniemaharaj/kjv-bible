@@ -26,7 +26,7 @@ BOOKS: Final[list[BookSpec]] = [
     ("2 Samuel", 24, 695), ("1 Kings", 22, 816), ("2 Kings", 25, 719),
     ("1 Chronicles", 29, 942), ("2 Chronicles", 36, 822), ("Ezra", 10, 280),
     ("Nehemiah", 13, 406), ("Esther", 10, 167), ("Job", 42, 1070),
-    ("Psalm", 150, 2461), ("Proverbs", 31, 915), ("Ecclesiastes", 12, 222),
+    ("Psalms", 150, 2461), ("Proverbs", 31, 915), ("Ecclesiastes", 12, 222),
     ("Song of Solomon", 8, 117), ("Isaiah", 66, 1292),
     ("Jeremiah", 52, 1364), ("Lamentations", 5, 154),
     ("Ezekiel", 48, 1273), ("Daniel", 12, 357), ("Hosea", 14, 197),

@@ -100,7 +100,7 @@ Audit run: **2026-07-30**
 | Nehemiah | 13 | 406 |
 | Esther | 10 | 167 |
 | Job | 42 | 1,070 |
-| Psalm | 150 | 2,461 |
+| Psalms | 150 | 2,461 |
 | Proverbs | 31 | 915 |
 | Ecclesiastes | 12 | 222 |
 | Song of Solomon | 8 | 117 |
@@ -156,13 +156,11 @@ tables published by
 [Bible SuperSearch](https://www.biblesupersearch.com/2019/02/the-number-of-verses-in-the-bible/)
 and
 [Grace Ambassadors](https://graceambassadors.com/bible/king-james-bible-statistics).
-The repository uses the filename `Psalm.json`; those references label the same
-150-chapter book as “Psalms.”
 
 Exact corpus SHA-512:
 
 ```text
-fbb130345dc2d004edc2468692ca247b9541574a019cbff814357ad22c9fdd521e5a2a37e5f29ecabfe38789dc28b3628a6c7752bc1b2ba6bc0073d1ecdccd88
+f49b390066c3113fbb708b96406acc6a02dffe9c56835154d73b6caa45123ede112544ede09e0ed8db43c1d7481feed46a1a2bb212d8261b25b9aaa6d7a3a8b2
 ```
 
 The corpus fingerprint is deterministic and covers each canonical filename and

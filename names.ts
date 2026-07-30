@@ -17,7 +17,7 @@ export const fileNames: string[] = [
   "Nehemiah.json",
   "Esther.json",
   "Job.json",
-  "Psalm.json",
+  "Psalms.json",
   "Proverbs.json",
   "Ecclesiastes.json",
   "Song of Solomon.json",
